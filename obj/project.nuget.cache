@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6gI3HOsIEm9MBxD5rbxlsuD2EoRrKEFr1NohckS7OoqEz6a8PebO2T4EtaFTfo2b5Tq8flRe0xGAHTuyzdoQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasmi\\source\\repos\\Exemplorefit\\Exemplorefit\\Exemplorefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasmi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\yasmi\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\yasmi\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
