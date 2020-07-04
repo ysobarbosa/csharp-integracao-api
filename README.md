@@ -1,2 +1,2 @@
 # csharp-integracao-api
-Integração de aplicação console c# com API do viacep, utilizando biblioteca Refit. 
+Integração de aplicação console .NET com API do viacep, utilizando biblioteca Refit. 
